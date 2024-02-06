@@ -31,28 +31,7 @@ body {
   transition: all 0.5s ease;
 }
 
-.postcard1 {
-  width: 1000px;
-  height: 500px;
-  background: #f594b862;
-  position: absolute;
-  left: 24%;
-  -webkit-filter: blur(2px);
-  z-index: -1;
-  margin: 0 auto;
-  border-radius: 2%;
-  display: flex;
-  justify-content: space-between;
-  padding: 3em;
-  box-shadow: 0.8em 0.8em 15px rgba(0, 0, 0, 0.3);
-  -ms-transform: rotate(2.5deg); /* IE 9 */
-  -webkit-transform: rotate(2.5deg); /* Chrome, Safari, Opera */
-  transform: rotate(2.5deg);
-  -moz-transition: all 0.5s ease;
-  -webkit-transition: all 0.5s ease;
-  -o-transition: all 0.5s ease;
-  transition: all 0.5s ease;
-}
+
 
 h1 {
   text-align: center;
