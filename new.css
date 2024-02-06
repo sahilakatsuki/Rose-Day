@@ -32,8 +32,8 @@ body {
 }
 
 .postcard1 {
-  width: 100px;
-  height: 100px;
+  width: 500px;
+  height: 500px;
   background: #f594b862;
   position: absolute;
   left: 24%;
@@ -75,7 +75,7 @@ h1 {
 }
 
 .mail_stamp {
-  width: 100px;
+  width: 10px;
   float: right;
 }
 
