@@ -32,8 +32,8 @@ body {
 }
 
 .postcard1 {
-  width: 1000px;
-  height: 1000px;
+  width: 800px;
+  height: 500px;
   background: #f594b862;
   position: absolute;
   left: 24%;
@@ -74,10 +74,7 @@ h1 {
   transition: all 0.5s ease;
 }
 
-.mail_stamp {
-  width: 100px;
-  float: right;
-}
+
 
 .push {
   margin-bottom: 1em;
